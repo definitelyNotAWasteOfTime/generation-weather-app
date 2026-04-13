@@ -43,7 +43,7 @@ Una semplice applicazione meteo in Python che recupera dati meteorologici da **O
 
 ### Passaggi
 
-1. **Clona o scarica il progetto:**
+1. **Clona o scarica il progetto (PowerShell consigliato):**
    ```bash
    git clone https://github.com/definitelyNotAWasteOfTime/generation-weather-app.git
    cd generation-weather-app\weather_app
