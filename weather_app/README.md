@@ -45,7 +45,7 @@ Una semplice applicazione meteo in Python che recupera dati meteorologici da **O
 
 1. **Clona o scarica il progetto:**
    ```bash
-   git clone https://github.com/definitelyNotAWasteOfTime/generation-weather-app/tree/main/weather_app
+   git clone https://github.com/definitelyNotAWasteOfTime/generation-weather-app.git
    cd weather-app
    ```
 
